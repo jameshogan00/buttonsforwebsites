@@ -1,1 +1,1 @@
-A collection of buttons suitable for both bright and dark backgrounds on websites
+A collection of some buttons suitable for both bright and dark backgrounds on websites
